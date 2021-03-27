@@ -1,0 +1,12 @@
+/home/bass-codeur/Bureau/getionEcole/src/main/java/com/mycompany/app/domain/Classe.java
+/home/bass-codeur/Bureau/getionEcole/src/main/java/com/mycompany/app/domain/Etudiant.java
+/home/bass-codeur/Bureau/getionEcole/src/main/java/com/mycompany/app/service/console/ConsoleDisplayEtudiant.java
+/home/bass-codeur/Bureau/getionEcole/src/main/java/com/mycompany/app/repository/jdbc/MysqlDataSource.java
+/home/bass-codeur/Bureau/getionEcole/src/main/java/com/mycompany/app/service/MenuEtudiant.java
+/home/bass-codeur/Bureau/getionEcole/src/main/java/com/mycompany/app/App.java
+/home/bass-codeur/Bureau/getionEcole/src/main/java/com/mycompany/app/service/DisplayeEtudiant.java
+/home/bass-codeur/Bureau/getionEcole/src/main/java/com/mycompany/app/repository/jdbc/EtudiantRepository.java
+/home/bass-codeur/Bureau/getionEcole/src/main/java/com/mycompany/app/repository/jdbc/DataSource.java
+/home/bass-codeur/Bureau/getionEcole/src/main/java/com/mycompany/app/repository/jdbc/JdbcEtudiantRepository.java
+/home/bass-codeur/Bureau/getionEcole/src/main/java/com/mycompany/app/service/console/ScannerMenuEtudiant.java
+/home/bass-codeur/Bureau/getionEcole/src/main/java/com/mycompany/app/controller/EtudiantController.java
